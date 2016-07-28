@@ -1,6 +1,3 @@
-title            : R pt br
-instructors      : Denisson Silva
-description      : Este foi desenvolvido em Porturguês Brasil e tem como foco fazer uma introdução nos elemementos básicos para compreensão da Linguagem R.
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+courseTitle: R pt Br
+courseAuthors: Denisson Silva and Fernando Meireles
+courseDescription: Este foi desenvolvido em Porturguês Brasil e tem como foco fazer uma introdução nos elemementos básicos para compreensão da Linguagem R.
