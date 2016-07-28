@@ -1,7 +1,6 @@
 title            : R pt br
-instructors      : 
- - denissoncsol@gmail.com
- - fernando.meireles@ufrgs.br
+instructors      :  Denisson Silva
+ - denissoncsol@gmail.com 
 description      : Este foi desenvolvido em Porturguês Brasil e tem como foco fazer uma introdução nos elemementos básicos para compreensão da Linguagem R.
 university       : DataCamp
 difficulty_level : 2
