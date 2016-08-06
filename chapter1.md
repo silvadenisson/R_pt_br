@@ -11,31 +11,55 @@ O exercício é usar o R como Calculadora
 *** =Instruções
 - some `10` mais  `20` no editor de script no lado direito depois submeta a resposta (Submit Answer).
 
-*** =hint
-Use `+` para somar.
-
-*** =pre_exercise_code
-```{r}
-10 + 20
-10 / 2
-```
-
 *** =sample_code
-```{r}
-# Some 10 + 20
-# divida 10 / 2
+```{r eval=FALSE}
+# An addition
+5+5 
+
+# A substraction
+5-5 
+
+# A multiplication
+3*5
+
+ # A division
+(5+5)/2 
+
+# Exponentiation
+# Add your code here!
+
+# Modulo
+# Add your code here!
 ```
 
 *** =solution
-```{r}
-# Some 10 + 20
-10 + 20
-20 / 2
+```{r eval=FALSE}
+# An addition
+5+5 
+
+# A substraction
+5-5 
+
+# A multiplication
+3*5
+
+ # A division
+(5+5)/2 
+
+# Exponentiation
+# Add your code here!
+2^5
+# Modulo
+# Add your code here!
+17%%4
 ```
 
 *** =sct
-```{r}
-test_error()
-success_msg("Muito Bom! Siga para o próximo exercício")
+```{r eval=FALSE}
+DM.result <- code_test( c("17%%4","2^5") )
 ```
 
+*** =pre_exercise_code
+```{r eval=FALSE}
+
+```
