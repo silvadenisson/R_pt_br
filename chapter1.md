@@ -8,8 +8,15 @@ attachments :
 
 O exercício é usar o R como Calculadora 
 
-*** =Instruções
-- some `10` mais  `20` no editor de script no lado direito depois submeta a resposta (Submit Answer).
+*** =instructions
+
+1. Type `2^5` in the editor to calculate 2 to the power 5.
+2. Type `17%%4` to calculate 17 modulo 4.
+3. Click Submit Answer and have a look at the R output in the console.
+4. Note how we use the `#` symbol to give comments on certain lines.
+
+*** =hint
+Just follow the instructions, this should be easy ;-).
 
 *** =sample_code
 ```{r eval=FALSE}
