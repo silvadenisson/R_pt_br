@@ -3,7 +3,7 @@ title       : Introdução
 description : Neste módulo você vai aprender fazer operações matematica no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
 attachments :
 
---- type:NormalExercise lang:r xp:100 skills:1,3
+--- type:NormalExercise lang:r xp:100 skills:1,3 key:bc438b12bd
 ## Interactive Exercise Title
 
 This basic exercise will challenge you to assign a variable in R.
