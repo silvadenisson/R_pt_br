@@ -17,26 +17,25 @@ Use `+` para somar.
 *** =pre_exercise_code
 ```{r}
 10 + 20
+10 / 2
 ```
 
 *** =sample_code
 ```{r}
 # Some 10 + 20
+# divida 10 / 2
 ```
 
 *** =solution
 ```{r}
 # Some 10 + 20
 10 + 20
+20 / 2
 ```
 
 *** =sct
 ```{r}
 test_error()
-test_operator("+", not_called_msg = "O perador matemátematico para soma é `+`", ncorrect_msg = "O perador matemátematico para soma é `+`")
-
-
-
-success_msg("Good job! Head over to the next exercise")
+success_msg("Muito Bom! Siga para o próximo exercício")
 ```
 
