@@ -34,8 +34,8 @@ Use `+` para somar.
 ```{r}
 test_error()
 test_object(10+20,
-            undefined_msg = "Make sure to define `x`!",
-            incorrect_msg = "Have you correctly assigned 5 to `x`!")
+            undefined_msg = "Make sure to define `10+20`!",
+            incorrect_msg = "Have you correctly assigned 5 to `10+20`!")
 success_msg("Good job! Head over to the next exercise")
 ```
 
