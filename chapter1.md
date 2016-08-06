@@ -8,11 +8,10 @@ attachments :
 
 O exercício é usar o R como Calculadora 
 
-*** =instructions
-
+***=instructions
 1.  Some 10 + 20
 *** =hint
-Just follow the instructions, this should be easy ;-).
+Basta seguir as instruções ;-).
 
  *** =pre_exercise_code
   ```{r}
@@ -36,8 +35,5 @@ Just follow the instructions, this should be easy ;-).
   *** =sct
   ```{r}
   test_error()
- -
- -
- -
- -success_msg("Muito Bom! Siga para o proximo exercicio")
+  success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
