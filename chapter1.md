@@ -33,7 +33,7 @@ Use `+` para somar.
 *** =sct
 ```{r}
 test_error()
-test_operator("+", incorrect_msg = "O perador matemático para soma incorreto")
+test_operator("+", incorrect_msg = "O perador matematico para soma incorreto")
 
 
 success_msg("Good job! Head over to the next exercise")
