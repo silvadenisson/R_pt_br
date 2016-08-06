@@ -8,7 +8,7 @@ attachments :
 
 O exercício é usar o R como Calculadora 
 
-*** =instructions
+*** =Instruções
 - some `10` mais  `20` no editor de script no lado direito depois submeta a resposta (Submit Answer).
 
 *** =hint
@@ -33,9 +33,6 @@ Use `+` para somar.
 *** =sct
 ```{r}
 test_error()
-test_object(10+20,
-            undefined_msg = "Make sure to define `10+20`!",
-            incorrect_msg = "Have you correctly assigned 5 to `10+20`!")
 success_msg("Good job! Head over to the next exercise")
 ```
 
