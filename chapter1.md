@@ -1,6 +1,10 @@
 ---
 title       : Introdução
 description : Neste módulo você vai aprender fazer operações matematica no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
+
+framework : datamind
+mode: selfcontained
+---
 ## How it works
 
 In the **editor** on the right you will have to type your code for solving the exercises. Now it just contains `3+4` and `demo("graphics")`. 
