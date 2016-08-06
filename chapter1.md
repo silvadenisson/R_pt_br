@@ -1,39 +1,39 @@
 ---
 title       : Introdução
-description : Neste módulo você vai aprender fazer operações matematica no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
+description : Neste módulo você vai aprender fazer operações matemáticas no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
 attachments :
 
 --- type:NormalExercise lang:r xp:100 skills:1,3 key:bc438b12bd
-## Interactive Exercise Title
+## Operaçoes matemáticas
 
-This basic exercise will challenge you to assign a variable in R.
+O exercício é usar o R como Calculadora 
 
 *** =instructions
-- Assign `5` to the variable `x` in the editor on the right.
+- some `10` mais  `20` no editor de script no lado direito depois submeta a resposta (Submit Answer).
 
 *** =hint
-Use `<-` for assignment.
+Use `+` para somar.
 
 *** =pre_exercise_code
 ```{r}
-y <- 3
+10 + 20
 ```
 
 *** =sample_code
 ```{r}
-# Assign 5 to the variable x
+# Some 10 + 20
 ```
 
 *** =solution
 ```{r}
-# Assign 5 to the variable x
-x <- 5
+# Some 10 + 20
+10 + 20
 ```
 
 *** =sct
 ```{r}
 test_error()
-test_object("x",
+test_object(10+20,
             undefined_msg = "Make sure to define `x`!",
             incorrect_msg = "Have you correctly assigned 5 to `x`!")
 success_msg("Good job! Head over to the next exercise")
