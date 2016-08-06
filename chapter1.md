@@ -16,20 +16,17 @@ Basta seguir as instruções ;-).
  *** =pre_exercise_code
   ```{r}
   10 + 20
- +10 / 2
   ```
   
   *** =sample_code
   ```{r}
   # Some 10 + 20
- +# divida 10 / 2
   ```
   
   *** =solution
   ```{r}
   # Some 10 + 20
   10 + 20
- +20 / 2
   ```
   
   *** =sct
