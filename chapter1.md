@@ -39,5 +39,5 @@ Just follow the instructions, this should be easy ;-).
  -
  -
  -
- -success_msg("Muito Bom! Siga para o próximo exercício")
+ -success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
