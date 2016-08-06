@@ -36,7 +36,7 @@ Just follow the instructions, this should be easy ;-).
   *** =sct
   ```{r}
   test_error()
- -test_operator("+", not_called_msg = "O perador matemátematico para soma é `+`", ncorrect_msg = "O perador matemátematico para soma é `+`")
+ -test_operator("+", not_called_msg = "O perador matemátematico para soma errado", ncorrect_msg = "O perador matemátematico para soma não é este")
  -
  -
  -
