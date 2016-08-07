@@ -74,6 +74,6 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
-  test_expression_output("28")
-  success_msg("Muito Bom! Siga para o proximo exercicio")
+test_output_contains("28", incorrect_msg = "Make sure to add `6 + 12` on a new line. Do not start the line with a `#`, otherwise your R code is not executed!")
+success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
