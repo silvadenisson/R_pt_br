@@ -73,7 +73,5 @@ Basta seguir as instruções ;-).
   
   *** =sct
   ```{r}
-  test_error()
   DM.result <- TRUE
-  success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
