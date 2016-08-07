@@ -36,6 +36,7 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
+  code_test( "10 + 20")
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
