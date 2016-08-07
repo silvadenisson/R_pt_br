@@ -74,6 +74,7 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
-test_output_contains("28", incorrect_msg = "Make sure to add `6 + 12` on a new line. Do not start the line with a `#`, otherwise your R code is not executed!")
+test_or(test_output_contains("28", incorrect_msg = "Resposta incorreta para mulptiplicacao de 7 * 4"),
+        test_output_contains("51", incorrect_msg = "Resposta incorreta para subtracao de 70 - 19"))
 success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
