@@ -4,11 +4,11 @@ description : Neste módulo você vai aprender fazer operações matemáticas no
 attachments :
 
 --- type:NormalExercise lang:r xp:20 skills:1,3 key:bc438b12bd
-## Operaçoes matemáticas
+## Operações matemáticas
 
 O exercício é usar o R como Calculadora 
 
-***=instructions
+*** =instructions
 1.  Some 10 + 20
 2.  Divida 20 / 5
 *** =hint
@@ -31,6 +31,44 @@ Basta seguir as instruções ;-).
   10 + 20
   #Divida 20 / 5
   20 / 5
+  ```
+  
+  *** =sct
+  ```{r}
+  test_error()
+  success_msg("Muito Bom! Siga para o proximo exercicio")
+  ```
+  
+  ---
+  
+  --- type:NormalExercise lang:r xp:20 skills:1,3 key:bc438b12bd
+## Operações matemáticas
+
+O exercício é usar o R como Calculadora 
+
+*** =instructions
+1.  Multiplique 7 * 4
+2.  Subtraia 70 - 19
+*** =hint
+Basta seguir as instruções ;-).
+
+ *** =pre_exercise_code
+  ```{r}
+  7 * 4
+  70 - 19
+  ```
+  
+  *** =sample_code
+  ```{r}
+  # Some 7 * 4
+  ```
+  
+  *** =solution
+  ```{r}
+  # Some 10 + 20
+  7 * 4
+  #Divida 20 / 5
+  70 - 19
   ```
   
   *** =sct
