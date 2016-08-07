@@ -4,7 +4,7 @@ description : Neste módulo você vai aprender fazer operações matemáticas no
 attachments :
 
 --- type:NormalExercise lang:r xp:20 skills:1,3 key:bc438b12bd
-## Operações matemáticas
+## Operações matemáticas 1
 
 O exercício é usar o R como Calculadora 
 
@@ -42,7 +42,7 @@ Basta seguir as instruções ;-).
   ---
   
   --- type:NormalExercise lang:r xp:20 skills:1,3 key:bc438b12bd
-## Operações matemáticas
+## Operações matemáticas 2
 
 O exercício é usar o R como Calculadora 
 
