@@ -15,18 +15,18 @@ O exercício é usar o R como Calculadora
 Basta seguir as instruções ;-).
 
  *** =pre_exercise_code
-  ```{r eval=FALSE}
+  ```{r}
   10 + 20
   20 / 5
   ```
   
   *** =sample_code
-  ```{r eval=FALSE}
+  ```{r}
   # Some 10 + 20
   ```
   
   *** =solution
-  ```{r eval=FALSE}
+  ```{r}
   # Some 10 + 20
   10 + 20
   # Divida 20 / 5
@@ -34,9 +34,9 @@ Basta seguir as instruções ;-).
   ```
   
   *** =sct
-  ```{r eval=FALSE}
+  ```{r}
   test_error()
-  code_test( "10 + 20")
+ test_or("10 + 20", "20 / 5")
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
