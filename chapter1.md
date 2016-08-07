@@ -29,7 +29,7 @@ Basta seguir as instruções ;-).
   ```{r}
   # Some 10 + 20
   10 + 20
-  #Divida 20 / 5
+  # Divida 20 / 5
   20 / 5
   ```
   
@@ -59,14 +59,14 @@ Basta seguir as instruções ;-).
   
   *** =sample_code
   ```{r}
-  # Some 7 * 4
+  # Multiplique 7 * 4
   ```
   
   *** =solution
   ```{r}
-  # Some 10 + 20
+  # Multiplique 7 * 4
   7 * 4
-  #Divida 20 / 5
+  # Subtraia 70 - 19
   70 - 19
   ```
   
