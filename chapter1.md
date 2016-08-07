@@ -73,6 +73,7 @@ Basta seguir as instruções ;-).
   
   *** =sct
   ```{r}
-  test_correct("7 * 4")
+  test_error()
+  test_correct(7 * 4)
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
