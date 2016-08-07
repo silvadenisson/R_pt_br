@@ -36,7 +36,7 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
- test_or("10 + 20", "20 / 5")
+  DM.result <- TRUE
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
@@ -74,5 +74,6 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
+  DM.result <- TRUE
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
