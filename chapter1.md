@@ -36,7 +36,6 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
-  DM.result <- TRUE
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
@@ -61,6 +60,7 @@ Basta seguir as instruções ;-).
   *** =sample_code
   ```{r}
   # Multiplique 7 * 4
+  # Insira sua resposta na proxima linha
   ```
   
   *** =solution
@@ -73,5 +73,6 @@ Basta seguir as instruções ;-).
   
   *** =sct
   ```{r}
-  
+  test_correct("7 * 4")
+  success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
