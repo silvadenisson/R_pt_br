@@ -4,13 +4,17 @@ description : Neste módulo você vai aprender fazer operações matemáticas no
 attachments :
 
 --- type:NormalExercise lang:r xp:100 skills:1,3 key:bc438b12bd
-## Operações matemáticas 1
+## Operações matemáticas
 
 O exercício é usar o R como Calculadora 
+
+Obs. Linhas iniciadas com `#` no R significa que é um comentário e ele não vai ententer como uma operacao a ser relaizada.
 
 *** =instructions
 1.  Some 10 + 20
 2.  Divida 20 / 5
+3.  Multiplique 7 * 4
+4.  Subtraia 70 - 19
 *** =hint
 Basta seguir as instruções ;-).
 
@@ -18,6 +22,8 @@ Basta seguir as instruções ;-).
   ```{r}
   10 + 20
   20 / 5
+  7 * 4
+  70 - 19
   ```
   
   *** =sample_code
@@ -31,15 +37,20 @@ Basta seguir as instruções ;-).
   10 + 20
   # Divida 20 / 5
   20 / 5
+  # Multiplique 7 * 4
+  7 * 4
+  # Subtraia 70 - 19
+  70 - 19
   ```
   
   *** =sct
   ```{r}
   test_error()
+  test_output_contains(c("28","51"), incorrect_msg = "Resposta incorreta para pelo menos uma das operações, corrija e resubmeta")
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
---- type:NormalExercise lang:r xp:100 skills:1,3 key:ac898f9bbb
+--- type:NormalExercise lang:r xp: skills:1,3 key:ac898f9bbb
   
 ## Operações matemáticas 2
 
@@ -74,6 +85,6 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
-test_output_contains(c("28","51"), incorrect_msg = "Resposta incorreta para mulptiplicacao de 7 * 4")
-success_msg("Muito Bom! Siga para o proximo exercicio")
+  test_output_contains(c("28","51"), incorrect_msg = "Resposta incorreta para pelo menos uma das operações, corrija e resubmeta")
+  success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
