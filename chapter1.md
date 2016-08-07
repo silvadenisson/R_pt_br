@@ -8,6 +8,8 @@ attachments :
 
 O exercício é usar o R como Calculadora 
 
+Escreva a solução correta no scrip.R no lado direito e submeta a resposta (Submit Answer).
+
 Obs. Linhas iniciadas com `#` no R significa que é um comentário e ele não vai ententer como uma operacao a ser relaizada.
 
 *** =instructions
