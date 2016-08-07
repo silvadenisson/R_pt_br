@@ -73,5 +73,5 @@ Basta seguir as instruções ;-).
   
   *** =sct
   ```{r}
-  DM.result <- TRUE
+  
   ```
