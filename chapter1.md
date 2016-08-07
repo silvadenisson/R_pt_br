@@ -46,7 +46,7 @@ Basta seguir as instruções ;-).
   *** =sct
   ```{r}
   test_error()
-  test_output_contains(c("28","51"), incorrect_msg = "Resposta incorreta para pelo menos uma das operações, corrija e resubmeta")
+  test_output_contains(c("30","4","28","51"), incorrect_msg = "Resposta incorreta para pelo menos uma das operações, corrija e resubmeta")
   success_msg("Muito Bom! Siga para o proximo exercicio")
   ```
   
