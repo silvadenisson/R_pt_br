@@ -23,7 +23,16 @@ para começar a aprender mais sobre o R basta clicar em "Submit Answer"
 
 *** =sample_code
   ```{r}
-  # Isso é comentário, colocar o "#" no inicio de uma linha no R significa que toda a linha é um comentário
+ # No R, toda linha em um scrip iniciado por # e' um comentario.
+
+
+# Isto significa que tudo o que vier depois de # nao sera' executado.
+
+# - Eles ajudam a organizar o codigo;
+# - Eles permitem comentar o que cada parte do codigo faz;
+# - Eles facilitam a tarefa de replicar e publicizar um codigo.
+
+# Sempre faca comentarios. Mas chega de comentarios por enquanto.
   ```
   
 --- type:NormalExercise lang:r xp:40 skills:1,3 key:eb2fcab07b
