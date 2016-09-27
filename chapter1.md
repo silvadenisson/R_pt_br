@@ -12,6 +12,10 @@ Quando aparecer o símbolo "#" no script.R siginifica que é um comentário, ou 
 
 para começar a aprender mais sobre o R basta clicar em "Submit Answer"
 
+*** =sample_code
+
+  # Isso é comentário, colocar o "#" no inicio de uma linha no R significa que toda a linha é um comentário
+
 --- type:NormalExercise lang:r xp:40 skills:1,3 key:eb2fcab07b
 ## Operações matemáticas
 
