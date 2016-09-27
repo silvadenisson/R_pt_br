@@ -8,11 +8,11 @@ attachments :
 ## Apresentação
 
 *** =video_link
-//player.vimeo.com/video/108225030
+//player.vimeo.com/video/184564812
 
 
 
---- type:NormalExercise lang:r xp:0 skills:1,3 key:bc438b12bd
+--- type:NormalExercise lang:r xp:5 skills:1,3 key:bc438b12bd
 ## Instruções Iniciais
 
 Nesta coluna ao seu lado esquerdo ficarão as instruções das atividades a serem realizadas. Ao lado deireito desta há mais duas abas. Uma chamada "script.R" onde você vai digitar a resposta do exercício e "R Console" que vai apresentar o resultado após clicar em "Submit Answer" igual ao se você estivesse utilizanbdo o R instalado no seu computador.
