@@ -7,7 +7,7 @@ attachments :
 ## Intruções Iniciais
 
 
---- type:NormalExercise lang:r xp:40 skills:1,3 key:bc438b12bd
+--- type:NormalExercise lang:r xp:40 skills:1,3 key:eb2fcab07b
 ## Operações matemáticas
 
 O exercício é usar o R como Calculadora 
