@@ -4,17 +4,20 @@ description : Neste módulo você vai aprender fazer operações matemáticas no
 attachments :
 
 --- type:NormalExercise lang:r xp:0 skills:1,3 key:bc438b12bd
-## Intruções Iniciais
+## Instruções Iniciais
 
-Na coluna ao seu lado esquerdo ficam as instruções das atividades a serem realizadas
+Nesta coluna ao seu lado esquerdo ficarão as instruções das atividades a serem realizadas. Ao lado deireito desta há mais duas abas. Uma chamada "script.R" onde você vai digitar a resposta do exercício e "R Console" que vai apresentar o resultado após clicar em "Submit Answer" igual ao se você estivesse utilizanbdo o R instalado no seu computador.
 
+Quando aparecer o símbolo "#" no script.R siginifica que é um comentário, ou seja, não será interpredado como parte do seu código.
+
+para começar a aprender mais sobre o R basta clicar em "Submit Answer"
 
 --- type:NormalExercise lang:r xp:40 skills:1,3 key:eb2fcab07b
 ## Operações matemáticas
 
 O exercício é usar o R como Calculadora 
 
-Escreva a solução correta no scrip.R no lado direito e submeta a resposta (Submit Answer).
+Escreva a solução correta no script.R no lado direito e submeta a resposta (Submit Answer).
 
 Obs. Linhas iniciadas com `#` no R significa que é um comentário e ele não vai ententer como uma operacao a ser relaizada.
 
