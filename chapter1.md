@@ -3,6 +3,10 @@ title       : Introdução
 description : Neste módulo você vai aprender fazer operações matemáticas no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
 attachments :
 
+--- type:NormalExercise lang:r xp:0 skills:1,3 key:bc438b12bd
+## Intruções Iniciais
+
+
 --- type:NormalExercise lang:r xp:40 skills:1,3 key:bc438b12bd
 ## Operações matemáticas
 
