@@ -3,6 +3,15 @@ title       : Introdução
 description : Neste módulo você vai aprender fazer operações matemáticas no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
 attachments :
 
+
+--- type:VideoExercise lang:r aspect_ratio:62.5 xp:0 skills:1
+## Video Exercise Title
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
+
+
 --- type:NormalExercise lang:r xp:0 skills:1,3 key:bc438b12bd
 ## Instruções Iniciais
 
