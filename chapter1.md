@@ -6,6 +6,8 @@ attachments :
 --- type:NormalExercise lang:r xp:0 skills:1,3 key:bc438b12bd
 ## Intruções Iniciais
 
+Na coluna ao seu lado esquerdo ficam as instruções das atividades a serem realizadas
+
 
 --- type:NormalExercise lang:r xp:40 skills:1,3 key:eb2fcab07b
 ## Operações matemáticas
