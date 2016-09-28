@@ -12,23 +12,22 @@ attachments :
 
 O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico -- embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
 
-O curso tem uma abordagem prática: cada exercício pede um código para realizar uma tarefa. Caso a resposta não esteja certa, é possível refazer o exercício, estudar melhor as instruções e submeter novamente a resposta. No fim, cada resposta certa gera um número de pontos, que permitem avaliar como você está se saindo no curso.
+O curso tem uma abordagem prática: cada exercício pede um código para realizar uma tarefa. Caso a resposta não esteja certa, é possível refazer o exercício, estudar melhor as instruções e submeter novamente a resposta. No fim, cada resposta certa gerará um número de pontos, que permitem avaliar como você está se saindo.
 
-Os principais conteúdos abordados são direcionados para o uso prático do R. Entre outros, o curso aborda como manipular variáveis numéricas, categóricas e texto, resumir, visualizar e examinar estas informações. Ao fim dele, esperamos que você esteja pronto a usar o R para realizar suas próprias pesquisas e análises de dados.
+Os principais conteúdos abordados são direcionados para o uso prático do R. Entre outros, o curso aborda como manipular variáveis numéricas, categóricas e texto, bem como resumir e examinar estas informações. Ao fim dele, esperamos que você esteja pronto para usar o R para realizar suas próprias pesquisas e análises de dados.
 
 Agora chega de enrolação. Para começar, basta clicar no botão "Got it!", abaixo.
-
-
 
 --- type:NormalExercise lang:r xp:5 skills:1,3 key:bc438b12bd
 ## Instruções Iniciais
 
-Nesta coluna ao seu lado esquerdo ficarão as instruções das atividades a serem realizadas. Ao lado deireito desta há mais duas abas. Uma chamada "script.R" onde você vai digitar a resposta do exercício e "R Console" que vai apresentar o resultado após clicar em "Submit Answer" igual ao se você estivesse utilizanbdo o R instalado no seu computador.
+Nesta coluna ao seu lado esquerdo ficarão as instruções das atividades a serem realizadas. Ao lado deireito desta, há mais duas abas: uma chamada "script.R", onde você vai digitar a resposta do exercício; e "R Console", que apresentará o resultado após clicar em "Submit Answer". Tudo como se você estivesse utilizando o R instalado no seu computador.
 
-Quando aparecer o símbolo "#" no script.R siginifica que é um comentário, ou seja, não será interpredado como parte do seu código.
-Observe no script.R
+Na aba esqueda, abaixo de "Instructions", é possível pedir dicas sobre como realizar o exercício (cuidado: cada vez que você clicar nestes botões você terá pontos subtraídos; a ideia é que você tente realizar os exercícios para aprender).
 
-para começar a aprender mais sobre o R basta clicar em "Submit Answer"
+Tudo o que vier seguido do símbolo "#" no script.R é um comentário, ou seja, não será interpredado como parte do seu código. Observe isto no script.R
+
+Para começar a aprender e pular para o próximo exercício, basta clicar em "Submit Answer".
 
 *** =sample_code
   ```{r}
