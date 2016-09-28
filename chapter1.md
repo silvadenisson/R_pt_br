@@ -1,6 +1,6 @@
 ---
 title       : Introdução
-description : Neste módulo, você vai aprender a trabalhar no console do R, realizando operações matemáticas e estatísticas básicas, criando objetos (vetores, ou variáveis), pedindo ajuda e os principais tipos (classes) de dados. Ao fim deste modulo, você estará apto a compreender como o R armezana os principais tipos de informações na memória, a criar e modificar objetos e a relizar operações e procedimentos básicamos de matemática e estatística.
+description : Neste módulo, você vai aprender a trabalhar no console do R, realizando operações matemáticas e estatísticas básicas, criando objetos (vetores, ou variáveis), pedindo ajuda e identificando os principais tipos (classes) de dados. Ao fim deste modulo, você estará apto a compreender como o R armezana os principais tipos de informações na memória, a criar e modificar objetos e a relizar operações e procedimentos matemáticos e estatísticos básicos.
 attachments :
 
 
@@ -9,6 +9,14 @@ attachments :
 
 *** =video_link
 //player.vimeo.com/video/108225030
+
+O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico, embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
+
+O curso tem uma abordagem prática: cada exercício pede um código para realizar uma tarefa. Caso a resposta não esteja certa, é possível refazer o exercício, estudar melhor as instruções e submeter novamente a resposta. No fim, cada resposta certa gera um número de pontos, que permitem avaliar de forma geral como você está se saindo no curso.
+
+Os principais conteúdos abordados são direcionados para o uso prático do R. Entre outros, o curso aborda como manipular variáveis numéricas, categóricas e texto, resumir, visualizar e examinar estas informações. Ao fim dele, esperamos que o(a) aluno(a) esteja pronto a usar o R para realizar pesquisas e análises de dados.
+
+Para começar, basta clicar no botão "Got it!", abaixo.
 
 
 
