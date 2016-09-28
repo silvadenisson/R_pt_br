@@ -31,14 +31,14 @@ Para começar a aprender e pular para o próximo exercício, basta clicar em "Su
 
 *** =sample_code
   ```{r}
- # No R, toda linha em um scrip iniciado por # e' um comentario.
+# No R, toda linha em um scrip iniciado por # e' um comentario.
 
 
-# Isto significa que tudo o que vier depois de # nao sera' executado.
+# Isto significa que tudo o que vier depois de # nao sera' executado. Comentários:
 
-# - Eles ajudam a organizar o codigo;
-# - Eles permitem comentar o que cada parte do codigo faz;
-# - Eles facilitam a tarefa de replicar e publicizar um codigo.
+# - Ajudam a organizar o codigo;
+# - Permitem comentar o que cada parte do codigo faz;
+# - Facilitam a tarefa de replicar e publicizar um codigo.
 
 # Sempre faca comentarios. Mas chega de comentarios por enquanto.
   ```
