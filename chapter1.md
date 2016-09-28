@@ -1,6 +1,6 @@
 ---
 title       : Introdução
-description : Neste módulo você vai aprender fazer operações matemáticas no console, criar objetos (variáveis), pedir ajuda, e os principais tipos (classes) de dados.
+description : Neste módulo, você vai aprender a trabalhar no console do R, realizando operações matemáticas e estatísticas básicas, criando objetos (vetores, ou variáveis), pedindo ajuda e os principais tipos (classes) de dados. Ao fim deste modulo, você estará apto a compreender como o R armezana os principais tipos de informações na memória, a criar e modificar objetos e a relizar operações e procedimentos básicamos de matemática e estatística.
 attachments :
 
 
