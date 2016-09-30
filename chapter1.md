@@ -4,8 +4,12 @@ description : Neste módulo, você vai aprender a trabalhar no console do R, rea
 attachments :
 
 
---- type:NormalExercise  key:0e15c986b4
+--- type:VideoExercise lang:r aspect_ratio:62.5 skills:1 key:0e15c986b4
 ## Apresentação
+
+*** =video_link
+//player.vimeo.com/video/108225030
+
 
 O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico -- embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
 
