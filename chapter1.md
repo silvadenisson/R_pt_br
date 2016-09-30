@@ -7,9 +7,6 @@ attachments :
 --- type:VideoExercise lang:r aspect_ratio:62.5 skills:1 key:0e15c986b4
 ## Apresentação
 
-*** =video_link
-***//player.vimeo.com/video/108225030
-
 O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico -- embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
 
 O curso tem uma abordagem prática: cada exercício pede um código para realizar uma tarefa. Caso a resposta não esteja certa, é possível refazer o exercício, estudar melhor as instruções e submeter novamente a resposta. No fim, cada resposta certa gerará um número de pontos, que permitem avaliar como você está se saindo.
