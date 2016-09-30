@@ -4,7 +4,7 @@ description : Neste módulo, você vai aprender a trabalhar no console do R, rea
 attachments :
 
 
---- 
+--- type:NormalExercise 
 ## Apresentação
 
 O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico -- embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
