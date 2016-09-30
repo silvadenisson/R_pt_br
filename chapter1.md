@@ -11,6 +11,15 @@ attachments :
 //player.vimeo.com/video/108225030
 
 
+O objetivo principal deste curso é introduzir a linguagem de programação R para uso científico -- embora ele também seja útil para quem quer aprender ou se aprofundar no R. 
+
+O curso tem uma abordagem prática: cada exercício pede um código para realizar uma tarefa. Caso a resposta não esteja certa, é possível refazer o exercício, estudar melhor as instruções e submeter novamente a resposta. No fim, cada resposta certa gerará um número de pontos, que permitem avaliar como você está se saindo.
+
+Os principais conteúdos abordados são direcionados para o uso prático do R. Entre outros, o curso aborda como manipular variáveis numéricas, categóricas e texto, bem como resumir e examinar estas informações. Ao fim dele, esperamos que você esteja pronto para usar o R para realizar suas próprias pesquisas e análises de dados.
+
+Agora chega de enrolação. Para começar, basta clicar no botão "Got it!", abaixo.
+
+
 --- type:NormalExercise lang:r xp:5 skills:1,3 key:bc438b12bd
 ## Instruções Iniciais
 
